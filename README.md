@@ -23,16 +23,16 @@ Software: ES6+, ECMAScript, Visual Studio Code
 
 ![UFOs_2](https://github.com/acegal1/UFOs/blob/main/images/ufo2.png)
 
-### filter table criteria, you can search by "City" only if want, example: fresno
+### filter table criteria, you can search by "City"  example shown: fresno
 
 ![filter search by_city](https://github.com/acegal1/UFOs/blob/main/images/ufo3.jpg)
 
-### Clear table criteria, just click on "Clear Table" button, and start a new search and After clear table, you may see our default data.
+### Clear table criteria, just click on "Clear Table" button, and start a new search. After clear table, you will see our default data.
 
 ![UFOs_4](https://github.com/acegal1/UFOs/blob/main/images/ufo4.jpg)
 
 
-# Summury
+# Summary
 
 ### Drawback
 

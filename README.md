@@ -8,13 +8,13 @@ Create an interactive website that provides a more in-depth analysis of UFO sigh
 
 Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
 
-Software: ES6+, ECMAScript, Visual Studio Code 1.50.0
+Software: ES6+, ECMAScript, Visual Studio Code
 
 # Results
 
 - The UFOs Project has an enhanced webpage with capability to add filters with multiple factors. D3 functionality creates an instance listener for multiple changes in our search, displaying needed datasets on the result table.
 
-(https://github.com/acegal1/UFOs/blob/main/images/ufo#.jpg) 
+
 ### Welcome to UFO Sightings!
 
 ![UFOs_1](https://github.com/acegal1/UFOs/blob/main/images/ufo1.jpg)

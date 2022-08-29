@@ -23,7 +23,7 @@ Software: ES6+, ECMAScript, Visual Studio Code
 
 ![UFOs_2](https://github.com/acegal1/UFOs/blob/main/images/ufo2.png)
 
-### filter table criteria, you can search by "City"  example shown: fresno
+### Filter table criteria, you can search by "City"  example shown: fresno
 
 ![filter search by_city](https://github.com/acegal1/UFOs/blob/main/images/ufo3.jpg)
 
@@ -36,7 +36,7 @@ Software: ES6+, ECMAScript, Visual Studio Code
 
 ### Drawback
 
-- The color/font inside the filter boxes gives you the impression that the data is being filtered already.
+- The font inside the filter boxes gives you the impression that the data is being filtered already.
 - Option to clear the text from search.  
 
 
